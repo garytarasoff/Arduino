@@ -1,4 +1,4 @@
 Arduino
 =======
 
-Arduino SOurce Code Files
+Arduino Source Code Files
